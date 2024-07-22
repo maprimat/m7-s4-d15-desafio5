@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AboutView Se valida snapshot de estructura HTML: AboutView: 
+        <div class="about">
+            <h1>Vista About</h1>
+        </div>
+     1`] = `
+<div class="about">
+  <h1>Vista About</h1>
+</div>
+`;

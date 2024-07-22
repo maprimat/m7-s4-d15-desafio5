@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HomeView Se valida snapshot de estructura HTML: HomeView: 
+        <div class="home">
+            <img alt="Vue logo" src="../assets/logo.png">
+            <PostsView />
+        </div>
+     1`] = `
+<div class="home"><img alt="Vue logo" src="">
+  <posts-view-stub></posts-view-stub>
+</div>
+`;
